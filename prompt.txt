@@ -1,0 +1,30 @@
+Strategy for "Make the AI Judge Laugh" (u-rama-melon-make-the-ai-judge-laugh-302d0825)
+
+The judge is a comedy-club headliner persona weighing, in order: (1) the line
+is about office life and lands as a joke, (2) the observation is true to the
+office, (3) the turn is surprising, (4) it is tight and reads cleanly aloud,
+(5) it is original, not a familiar line with the nouns swapped.
+
+My line: "Our daily standup is fifteen minutes of people standing up to
+announce they did nothing yesterday and plan to do nothing today — but with
+excellent posture."
+
+How it maps to the brief:
+- Office truth: daily standups are a near-universal ritual, and the classic
+  complaint is that everyone reports no progress. The listener nods first.
+- Surprise: the setup sounds like a plain complaint, then the last word
+  reframes the whole meeting as a posture exercise — the only thing anyone
+  actually accomplishes is standing up straight.
+- Tight: one sentence, no wasted setup, every clause earns its place, and it
+  reads aloud in a single breath.
+- Original: the "standup as posture class" angle is not a stock office pun
+  (no printer jam, no "reply all", no coffee joke) and the punch lands on an
+  unexpected final noun rather than a familiar punchline.
+
+Deliberate choices:
+- One joke only, one line, well under 200 characters, no setup paragraph.
+- No meta-text addressed to the judge and no explanation of the joke — a
+  joke that needs explaining has already lost.
+- The program is fully deterministic: the joke is a fixed string constant,
+  with no randomness, clock, network, or input, so every run writes
+  byte-identical output.
